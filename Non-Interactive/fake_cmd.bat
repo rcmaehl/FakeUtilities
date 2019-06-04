@@ -1,5 +1,13 @@
 @echo off
 title C:\windows\system32\cmd.exe
+rem Remove "rem " from in front of the version of Windows you are using this utility on
+rem Windows 10
+rem echo Microsoft Windows [Version 10.0.10240]
+rem Windows 8.1
+rem echo Microsoft Windows [Version 6.3.9600]
+rem Windows 8
+rem echo Microsoft Windows [Version 6.2.9200]
+rem Windows 7 SP1
 echo Microsoft Windows [Version 6.1.7601]
 echo Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
 echo.
