@@ -17,3 +17,4 @@ Fake Utilities for Employee Training or Documentation Creation
 * Interactive Command Prompt
 * Interactive Control Panel
 * Interactive Powershell
+* Interactive Syskey
