@@ -1,3 +1,10 @@
+#NoTrayIcon
+
+#Region ;**** Directives created by AutoIt3Wrapper_GUI ****
+#AutoIt3Wrapper_Icon=Syskey.ico
+#AutoIt3Wrapper_Res_Language=1033
+#EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
+
 #include <GUIConstantsEx.au3>
 #include <WindowsConstants.au3>
 
